@@ -1,0 +1,99 @@
+[
+    {
+      "slideId": "enefti-slide-1",
+      "category": "Indoor Signs",
+      "itemsCount": 12,
+      "logo": "assets/images/explore/swiper/group1/gr1-logo.jpg",
+      "images": [
+        {
+          "src": "assets/images/explore/swiper/group1/gr1-1.jpg",
+          "alt": "FoxFam #9998"
+        },
+        {
+          "src": "assets/images/explore/swiper/group1/gr1-2.jpg",
+          "alt": "FoxFam #9996"
+        },
+        {
+          "src": "assets/images/explore/swiper/group1/gr1-3.jpg",
+          "alt": "FoxFam #9988"
+        },
+        {
+          "src": "assets/images/explore/swiper/group1/gr1-4.jpg",
+          "alt": "FoxFam #9984"
+        }
+      ]
+    },
+    {
+      "slideId": "enefti-slide-2",
+      "category": "Outdoor Signs",
+      "itemsCount": 12,
+      "logo": "assets/images/explore/swiper/group2/gr1-logo.jpg",
+      "images": [
+        {
+          "src": "assets/images/explore/swiper/group2/gr2-1.jpg",
+          "alt": "FoxFam #9998"
+        },
+        {
+          "src": "assets/images/explore/swiper/group2/gr2-2.jpg",
+          "alt": "FoxFam #9996"
+        },
+        {
+          "src": "assets/images/explore/swiper/group2/gr2-3.jpg",
+          "alt": "FoxFam #9988"
+        },
+        {
+          "src": "assets/images/explore/swiper/group2/gr2-4.jpg",
+          "alt": "FoxFam #9984"
+        }
+      ]
+    },
+    {
+      "slideId": "enefti-slide-3",
+      "category": "Wall Graphics",
+      "itemsCount": 12,
+      "logo": "assets/images/explore/swiper/group3/gr3-logo.jpg",
+      "images": [
+        {
+          "src": "assets/images/explore/swiper/group3/gr3-1.jpg",
+          "alt": "FoxFam #9998"
+        },
+        {
+          "src": "assets/images/explore/swiper/group3/gr3-2.jpg",
+          "alt": "FoxFam #9996"
+        },
+        {
+          "src": "assets/images/explore/swiper/group3/gr3-3.jpg",
+          "alt": "FoxFam #9988"
+        },
+        {
+          "src": "assets/images/explore/swiper/group3/gr3-4.jpg",
+          "alt": "FoxFam #9984"
+        }
+      ]
+    },
+    {
+      "slideId": "enefti-slide-4",
+      "category": "Window Graphics",
+      "itemsCount": 12,
+      "logo": "assets/images/explore/swiper/group4/gr4-logo.jpg",
+      "images": [
+        {
+          "src": "assets/images/explore/swiper/group4/gr4-1.jpg",
+          "alt": "FoxFam #9998"
+        },
+        {
+          "src": "assets/images/explore/swiper/group4/gr4-2.jpg",
+          "alt": "FoxFam #9996"
+        },
+        {
+          "src": "assets/images/explore/swiper/group4/gr4-3.jpg",
+          "alt": "FoxFam #9988"
+        },
+        {
+          "src": "assets/images/explore/swiper/group4/gr4-4.jpg",
+          "alt": "FoxFam #9984"
+        }
+      ]
+    }
+  ]
+  
